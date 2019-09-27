@@ -1,0 +1,24 @@
+.nav {
+  font-family: Helvetica;
+  width: 60px;
+  display: inline;
+  font-weight: normal;
+  color: white;
+}
+
+.nav a {
+  float: left;
+  font-weight: normal;
+  color: white;
+  background-color: #5d5c61;
+  text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px 15px;
+  border-right: 1px solid #bbb;
+}
+
+.nav a:hover {
+  background-color: #111;
+}
