@@ -4,7 +4,7 @@ title:  "Finding Pavement Markings Impact Related to Street Overlays in 2020"
 date:   2019-09-16
 tags: [python, jupyter notebook, arcmap, traffic signs,gis]
 ---
-<img src="../assets/images/counts_table_thumbnail.png" height=150 width=800 />
+<img src="../master/assets/images/counts_table_thumbnail.png" height=150 width=800 />
 This post will demonstrate how to access attribute table from shapefiles in order to create a markings asset counts for each street segment.
 [Here is the link to notebook](https://nbviewer.jupyter.org/github/susannegov/Signs-and-Markings-Projects/blob/master/SBO_Markings_Counts_2020.ipynb)
 
