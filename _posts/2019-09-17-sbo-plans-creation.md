@@ -4,7 +4,7 @@ title:  "Generate Pavement Markings Plans using Python, Jupyter Notebook, and Ar
 date:   2019-09-17
 tags: [python,jupyter notebook, arcmap, pavement markings, sbo,gis]
 ---
-<img src = "/assets/images/plans_thumbnail.png" height=150 width=800>
+<img src = "/assets/images/plans_thumbnail.png" height="150px" width="800px">
 This post describes creating a work order plan template using surface streets report to create a pavement markings plan.
 
 Check it out here:
