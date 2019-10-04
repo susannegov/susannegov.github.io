@@ -12,17 +12,18 @@ permalink: /skills/
 - ArcGIS Arcade Expressions
 -	Interpret specifications and engineering plans
 -	Reading and production of quarter section maps
--	Tableau and Insights for ArcGIS
+-	Tableau Desktop/Public and Insights for ArcGIS
 -	Asset management and work management
 -	Java/Python programming
-- Pandas, Jupyter Notebook/Jupyter Lab
+- Pandas
+- Jupyter Notebook/Jupyter Lab
 - Markdown
 - Git
 - HTML/CSS
 -	Microsoft Office and SharePoint
 -	Knowledge of city regulations and standards
 -	Spatial and data analysis
-- Ability to perform more complex engineering computations, calculus, geometry, and trigonometry, rapidly and accurately on aluminum toxicity of endangered fish species.
+- Ability to perform more complex engineering computations, calculus, geometry, and trigonometry, rapidly and accurately
 - Photoshop
 - Fire Alpaca
-- Environmental engineering terminology and techniques (see Limnology/Sustainability classes)
+- Environmental/Civil engineering terminology and techniques

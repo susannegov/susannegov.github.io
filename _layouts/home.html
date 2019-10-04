@@ -3,9 +3,32 @@ layout: default
 ---
 
 <div class="home">
+  <img src="{{page.photo}}" style="border-radius: 50%;
+  width=200px;height:200px;float:left;padding-right:20px;"></img>
+  <hr style="height: 200px;float:left;
+	color:$grey-color-dark;margin-right:20px">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
+<h1 class="page-heading">Categories</h1>
+<div id="archives">
+{% for category in site.categories %}
+<div class="archive-group">
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <div id="#{{ category_name | slugize }}"></div>
+  <p></p>
+
+  <h3 class="category-head">{{ category_name }}</h3>
+  <a name="{{ category_name | slugize }}"></a>
+  {% for post in site.categories[category_name] %}
+  <article class="archive-item">
+    <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+</article>
+  {% endfor %}
+</div>
+{% endfor %}
+</div>
+
 </div>

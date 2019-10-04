@@ -2,9 +2,10 @@
 layout: post
 title:  "Automating Overhead Signs Work Orders Using Python and Microsoft Office 365"
 date:   2019-07-30
-tags: [traffic signs, overhead, work orders, python]
+categories: [Engineering]
+tags: [Traffic Signs, Work Orders, Python]
 ---
-<img src = "/assets/images/7_E.png" height="150px" width="150px"><img src = "/assets/images/7_N.png" height="150px" width="150px"><img src = "/assets/images/7_S.png" height="150px" width="150px"><img src = "/assets/images/7_W.png" height="150px" width="150px">
+<img src = "/assets/images/7_E.png" height="150px" width="150px" style="padding-right: 20px; padding left: 20px;"><img src = "/assets/images/7_N.png" height="150px" width="150px" style="padding-right: 20px; padding left: 20px;"><img src = "/assets/images/7_S.png" height="150px" width="150px" style="padding-right: 20px; padding left: 20px;"><img src = "/assets/images/7_W.png" height="150px" width="150px" style="padding-right: 20px; padding left: 20px;">
 
 This post will demonstrate how to create work orders of overhead traffic signs as part of an established maintenance plan.
 [Here is the link to notebook](https://nbviewer.jupyter.org/github/susannegov/Signs-and-Markings-Projects/blob/master/2019WorkOrderCreation.ipynb)

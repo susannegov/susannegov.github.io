@@ -9,7 +9,10 @@
 
 title: Susanne Gov
 email: susannegov@yahoo.com
-description: 'Portfolio of relevant projects and skills'
+description:
+  '1609 Future Dr
+  <br>Unit B
+  <br>Austin, TX 78754'
 baseurl: "/"
 url: "/"
 # the base hostname & protocol for your site, e.g. http://example.com
@@ -28,7 +31,6 @@ header_pages:
   - projects.markdown
   - skills.markdown
   - resume.markdown
-  - about.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

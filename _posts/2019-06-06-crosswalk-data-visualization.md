@@ -2,7 +2,8 @@
 layout: post
 title:  "Visualizing Installation of Crosswalks"
 date:   2019-06-06
-tags: [traffic signs, overhead, work orders, python,gis,jupyter notebook, pandas, seaborn]
+categories: [Analysis]
+tags: [Pavement Markings, Work Orders, Python, GIS, Jupyter Notebook, Pandas]
 ---
 <img src = "/assets/images/crosswalk_install.png">
 

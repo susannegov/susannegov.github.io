@@ -2,7 +2,8 @@
 layout: post
 title:  "Generating Markings Asset Counts based on Crew Assigned"
 date:   2019-09-03
-tags: [python, jupyter notebook, arcmap, pavement markings, counts, crew assigned,gis]
+categories: [Analysis]
+tags: [Python, Jupyter Notebook, ArcMap, Pavement Markings, GIS]
 ---
 <table border="1" class="dataframe">
   <thead>

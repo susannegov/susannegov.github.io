@@ -2,9 +2,10 @@
 layout: post
 title:  "Measuring Retroreflectivity for Traffic Signs"
 date:   2019-09-23
-tags: [traffic signs, retroreflectivity, field work]
+categories: [Field Work]
+tags: [Traffic Signs, Retroreflectivity, Field Work]
 ---
-<img src = "/assets/images/sign_reflect.jpg" height="250px"><img src = "/assets/images/sign_reflect1.jpg" height="250px"><img src = "/assets/images/sign_reflect2.jpg" height="250px">
+<img src = "/assets/images/sign_reflect.jpg" height="250px" style="padding-right: 20px; padding left: 20px;"><img src = "/assets/images/sign_reflect1.jpg" height="250px" style="padding-right: 20px; padding left: 20px;"><img src = "/assets/images/sign_reflect2.jpg" height="250px" style="padding-right: 20px; padding left: 20px;">
 
 Retroreflectivity is an optical phenomena where a surface returns directed light back at its source. Without retroreflectivity, traffic signs would not be visible at night when headlights hit the sign's surface. The MUTCD outlines that the retroreflectivity of signs shall be replaced if it fails retroreflectivity tests.
 
