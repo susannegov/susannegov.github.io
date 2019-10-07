@@ -11,8 +11,10 @@ title: Susanne Gov
 email: susannegov@yahoo.com
 description:
   '1609 Future Dr
-  <br>Unit B
-  <br>Austin, TX 78754'
+
+  Unit B
+
+  Austin, TX 78754'
 baseurl: "/"
 url: "/"
 # the base hostname & protocol for your site, e.g. http://example.com
